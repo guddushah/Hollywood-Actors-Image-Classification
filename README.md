@@ -53,5 +53,7 @@
 9> Running the server.py
   - python3 /home/ubuntu/Classification/server/server.py
 
-ec2-13-48-42-94.eu-north-1.compute.amazonaws.com is the url where we can predict the prices of home in Bangalore
-![Result](https://github.com/guddushah/Banglore-Home-Price-Prediction/assets/40028193/36015fba-e7a8-44c2-b651-b63275d17f19)
+ec2-16-171-137-199.eu-north-1.compute.amazonaws.com is the url where we perform classification of Hollywood Actors
+![Result](https://github.com/guddushah/Hollywood-Actors-Image-Classification/assets/40028193/230cf0f0-db2c-4bda-8792-b6f002228ae5)
+
+
